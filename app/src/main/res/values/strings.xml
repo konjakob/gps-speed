@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPSSpeed</string>
+    <string name="dialog_max_speed_title">Maximum Speed</string>
+    <string name="dialog_max_speed_msg">Insert the maximum speed:</string>
+    <string name="dialog_max_speed_set">Set</string>
+    <string name="dialog_max_speed_cancel">Cancel</string>
+    <string name="GPS_disabled">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="set_maximum">Set maximum</string>
+    <string name="set_unit">Set speed unit</string>
+    <string name="dialog_speed_title">Speed unit</string>
+    <string name="dialog_speed_msg">In which unit should the speed be displayed:</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="uunit_mph">mph</string>
+</resources>

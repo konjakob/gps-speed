@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPSSpeed</string>
+    <string name="dialog_max_speed_cancel">Abbrechen</string>
+    <string name="dialog_max_speed_msg">Höchstgeschwindigkeit eingeben:</string>
+    <string name="dialog_max_speed_set">Setzen</string>
+    <string name="dialog_max_speed_title">Höchstgeschwindigkeit</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="set_maximum">Höchstgeschwindigkeit</string>
+    <string name="GPS_disabled">GPS scheint deaktiviert zu sein, möchtest du es aktivieren?</string>
+</resources>
